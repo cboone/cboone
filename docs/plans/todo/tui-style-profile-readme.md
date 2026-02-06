@@ -2,7 +2,7 @@
 
 ## Context
 
-The cboone/cboone profile README is currently minimal -- a tagline ("Hands on generalist.") and a website link. The goal is to add a showcase of 4 active projects (tmux-binding-help, bopca, cboone-cc-plugins, stipple) using a WebTUI / Monospace Web aesthetic: box-drawing characters inside a fenced code block that evokes a tiled terminal window manager.
+The cboone/cboone profile README is currently minimal -- a tagline ("Hands on generalist.") and a website link. The goal is to add a showcase of 4 active projects (bopca, stipple, tmux-binding-help, cboone-cc-plugins) using a WebTUI / Monospace Web aesthetic: box-drawing characters inside a fenced code block that evokes a tiled terminal window manager.
 
 ## Approach
 
@@ -21,14 +21,6 @@ Hands on generalist.
 
 \`\`\`
 ┌────────────────────────────────────────────────────────────────┐
-│  tmux-binding-help                                     shell  │
-│                                                               │
-│  Better binding help for tmux                                 │
-│                                                               │
-│  > Interactive popup with all key bindings by table           │
-│  > Keyboard navigation with search                            │
-│  > No external dependencies, available via TPM                │
-├────────────────────────────────────────────────────────────────┤
 │  bopca                                                   go   │
 │                                                               │
 │  Keeping you safe from the AI                                 │
@@ -37,14 +29,6 @@ Hands on generalist.
 │  > Hardware-level security, sub-second startup                │
 │  > Built-in gitleaks scanning, tmux integration               │
 ├────────────────────────────────────────────────────────────────┤
-│  cboone-cc-plugins                                 markdown   │
-│                                                               │
-│  Claude Code skills and hooks                                 │
-│                                                               │
-│  > Write Go Code style guide                                  │
-│  > Resolve Copilot PR Feedback                                │
-│  > Notify (macOS), Write Shell Scripts (Bash)                 │
-├────────────────────────────────────────────────────────────────┤
 │  stipple                                                 go   │
 │                                                               │
 │  Braille graphics rendering for terminal games                │
@@ -52,13 +36,29 @@ Hands on generalist.
 │  > Pixel-level graphics via Unicode braille (8x resolution)  │
 │  > Zero external dependencies                                 │
 │  > Planned: line/rect/circle drawing, ANSI color             │
+├────────────────────────────────────────────────────────────────┤
+│  tmux-binding-help                                     shell  │
+│                                                               │
+│  Better binding help for tmux                                 │
+│                                                               │
+│  > Interactive popup with all key bindings by table           │
+│  > Keyboard navigation with search                            │
+│  > No external dependencies, available via TPM                │
+├────────────────────────────────────────────────────────────────┤
+│  cboone-cc-plugins                                 markdown   │
+│                                                               │
+│  Claude Code skills and hooks                                 │
+│                                                               │
+│  > Write Go Code style guide                                  │
+│  > Resolve Copilot PR Feedback                                │
+│  > Notify (macOS), Write Shell Scripts (Bash)                 │
 └────────────────────────────────────────────────────────────────┘
 \`\`\`
 
-[tmux-binding-help](https://github.com/cboone/tmux-binding-help) |
 [bopca](https://github.com/cboone/bopca) |
-[cboone-cc-plugins](https://github.com/cboone/cboone-cc-plugins) |
-[stipple](https://github.com/cboone/stipple)
+[stipple](https://github.com/cboone/stipple) |
+[tmux-binding-help](https://github.com/cboone/tmux-binding-help) |
+[cboone-cc-plugins](https://github.com/cboone/cboone-cc-plugins)
 ```
 
 ## Design Decisions
