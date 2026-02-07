@@ -6,7 +6,8 @@ Hands-on generalist.
 
 [cboone.github.io](https://cboone.github.io)
 
-### Recent Work
-{{range recentContributions 10}}
-**[{{.Repo.Owner}}/{{.Repo.Name}}]({{.Repo.URL}})**{{with .Repo.Description}} ↝ {{.}}{{end}}<br>
+{{- range recentContributions 100 -}}
+{{- if eq .Repo.Owner "cboone" -}}
+[{{.Repo.Owner}}/{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} ↝ {{.}}{{end}}<br>
+{{- end}}
 {{- end}}
