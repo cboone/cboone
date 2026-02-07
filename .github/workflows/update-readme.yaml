@@ -11,6 +11,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
       - uses: charmbracelet/readme-scribe@master
         env:
@@ -20,8 +22,6 @@ jobs:
           writeTo: "README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v7
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           commit_message: "docs: update generated README"
           branch: main
