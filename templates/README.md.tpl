@@ -4,8 +4,10 @@
 
 Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
-{{ range recentContributions 100 }}
+{{ range recentContributions 20 }}
 {{- if eq .Repo.Owner "cboone" -}}
 [{{.Repo.Owner}}/{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} ↝ {{.}}{{end}}<br>
 {{- end -}}
 {{ end }}
+
+[Et cetera.](https://github.com/cboone?tab=repositories)
