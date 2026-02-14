@@ -4,6 +4,8 @@
 
 Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
+### Projects
+
 [cboone/cboone.github.io](https://github.com/cboone/cboone.github.io) ↝ My personal site<br>
 [cboone/bopca](https://github.com/cboone/bopca) ↝ Keeping you safe from the AI<br>
 [cboone/gh-problemas](https://github.com/cboone/gh-problemas)<br>
@@ -21,4 +23,21 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 [cboone/alabaster-themes-comparison](https://github.com/cboone/alabaster-themes-comparison) ↝ All the Alabaster<br>
 
 
-[Et cetera.](https://github.com/cboone?tab=repositories)
+### Other Contributions
+
+[erikw/tmux-dark-notify](https://github.com/erikw/tmux-dark-notify) ↝ A plugin that make tmux's theme follow macOS dark/light mode.<br>
+[facebookincubator/scrut](https://github.com/facebookincubator/scrut) ↝ Scrut is a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuss.<br>
+[Subbeh/tmux-tpad](https://github.com/Subbeh/tmux-tpad) ↝ Floating window manager for Tmux<br>
+[raine/workmux](https://github.com/raine/workmux) ↝ git worktrees + tmux windows for zero-friction parallel dev<br>
+
+
+### Blog
+
+[Alabaster Themes for Terminals](https://cboone.github.io/projects/alabaster-themes-for-terminals/) (3 weeks ago)<br>[Writer Theme for VS Code](https://cboone.github.io/projects/writer-theme-vscode/) (3 weeks ago)<br>[Hyperduck](https://cboone.github.io/posts/26-01-17-hyperduck/) (4 weeks ago)<br>[owloops/claude-powerline Progress Bar Display](https://cboone.github.io/posts/26-01-09-progress-bar-display/) (4 weeks ago)<br>[git diff: zdiff3](https://cboone.github.io/posts/26-01-15-git-zdiff3/) (1 month ago)<br>
+
+### Et cetera
+
+[Other Repos](https://github.com/cboone?tab=repositories) |
+[Catamount Hardware](https://catamounthardware.com) |
+[Instagram](https://instagram.com/catamounthardware) |
+[SoundCloud](https://soundcloud.com/cboone)
