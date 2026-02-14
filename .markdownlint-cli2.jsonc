@@ -1,0 +1,21 @@
+{
+  // https://github.com/DavidAnson/markdownlint-cli2#markdownlint-cli2jsonc
+  "$schema": "https://raw.githubusercontent.com/DavidAnson/markdownlint-cli2/main/schema/markdownlint-cli2-config-schema.json",
+
+  "config": {
+    // Line length
+    // https://github.com/DavidAnson/markdownlint/blob/v0.40.0/doc/md013.md
+    // MD013/line-length
+    "MD013": false,
+
+    // Inline HTML
+    // https://github.com/DavidAnson/markdownlint/blob/v0.40.0/doc/md033.md
+    // MD033/no-inline-html
+    "MD033": false,
+
+    // Bare URLs
+    // https://github.com/DavidAnson/markdownlint/blob/v0.40.0/doc/md041.md
+    // MD041/no-bare-urls
+    "MD041": false,
+  },
+}
