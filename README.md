@@ -26,8 +26,8 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 [erikw/tmux-dark-notify](https://github.com/erikw/tmux-dark-notify) ↝ A plugin that make tmux's theme follow macOS dark/light mode.<br>
 [facebookincubator/scrut](https://github.com/facebookincubator/scrut) ↝ Scrut is a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuss.<br>
-[raine/workmux](https://github.com/raine/workmux) ↝ git worktrees + tmux windows for zero-friction parallel dev<br>
 [Subbeh/tmux-tpad](https://github.com/Subbeh/tmux-tpad) ↝ Floating window manager for Tmux<br>
+[raine/workmux](https://github.com/raine/workmux) ↝ git worktrees + tmux windows for zero-friction parallel dev<br>
 
 
 ### Blog
