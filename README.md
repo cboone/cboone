@@ -6,21 +6,20 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 ### Projects
 
+[cboone/right-round](https://github.com/cboone/right-round) ↝ Spinner bonanza<br>
+[cboone/jm](https://github.com/cboone/jm) ↝ Safe JMAP (Fastmail) email tool<br>
 [cboone/bopca](https://github.com/cboone/bopca) ↝ Keeping you safe from the AI<br>
 [cboone/cboone.github.io](https://github.com/cboone/cboone.github.io) ↝ My personal site<br>
 [cboone/gh-problemas](https://github.com/cboone/gh-problemas)<br>
-[cboone/jm](https://github.com/cboone/jm) ↝ Safe JMAP (Fastmail) email tool<br>
 [cboone/tmux-binding-help](https://github.com/cboone/tmux-binding-help) ↝ Better binding help for tmux<br>
 [cboone/cboone-cc-plugins](https://github.com/cboone/cboone-cc-plugins) ↝ Claude Code skills and hooks<br>
-[cboone/attest](https://github.com/cboone/attest) ↝ Simple, Go-style test assertions<br>
 [cboone/crawler](https://github.com/cboone/crawler) ↝ Test TUIs through tmux<br>
+[cboone/attest](https://github.com/cboone/attest) ↝ Simple, Go-style test assertions<br>
 [cboone/stipple](https://github.com/cboone/stipple) ↝ Braille rendering library in Go<br>
+[cboone/tmux-package-status](https://github.com/cboone/tmux-package-status) ↝ Package status plugin for your tmux status bar<br>
 [cboone/tmux-conf](https://github.com/cboone/tmux-conf) ↝ tmux defaults<br>
 [cboone/manny-pub](https://github.com/cboone/manny-pub) ↝ Man page to epub converter<br>
-[cboone/tmux-package-status](https://github.com/cboone/tmux-package-status) ↝ Package status plugin for your tmux status bar<br>
-[cboone/alabaster-themes-comparison](https://github.com/cboone/alabaster-themes-comparison) ↝ All the Alabaster<br>
 [cboone/terminal-theme-alabaster](https://github.com/cboone/terminal-theme-alabaster) ↝ Alabaster color themes for terminals<br>
-[cboone/vscode-theme-yet-another-alabaster](https://github.com/cboone/vscode-theme-yet-another-alabaster) ↝ Yet Another Alabaster theme for VSCode<br>
 
 
 ### Other Contributions
@@ -33,7 +32,7 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 ### Blog
 
-[Alabaster Themes for Terminals](https://cboone.github.io/projects/alabaster-themes-for-terminals/) (3 weeks ago)<br>[Writer Theme for VS Code](https://cboone.github.io/projects/writer-theme-vscode/) (3 weeks ago)<br>[Hyperduck](https://cboone.github.io/posts/26-01-17-hyperduck/) (4 weeks ago)<br>[owloops/claude-powerline Progress Bar Display](https://cboone.github.io/posts/26-01-09-progress-bar-display/) (4 weeks ago)<br>[git diff: zdiff3](https://cboone.github.io/posts/26-01-15-git-zdiff3/) (1 month ago)<br>
+[Alabaster Themes for Terminals](https://cboone.github.io/projects/alabaster-themes-for-terminals/) (3 weeks ago)<br>[Writer Theme for VS Code](https://cboone.github.io/projects/writer-theme-vscode/) (3 weeks ago)<br>[Hyperduck](https://cboone.github.io/posts/26-01-17-hyperduck/) (4 weeks ago)<br>[owloops/claude-powerline Progress Bar Display](https://cboone.github.io/posts/26-01-09-progress-bar-display/) (1 month ago)<br>[git diff: zdiff3](https://cboone.github.io/posts/26-01-15-git-zdiff3/) (1 month ago)<br>
 
 ### Et cetera
 
