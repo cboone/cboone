@@ -9,10 +9,10 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 [cboone/gh-problemas](https://github.com/cboone/gh-problemas) ↝ github problemas: a GH CLI extension for managing issues<br>
 [cboone/right-round](https://github.com/cboone/right-round) ↝ Spinner bonanza<br>
 [cboone/jm](https://github.com/cboone/jm) ↝ Safe JMAP (Fastmail) email tool<br>
+[cboone/cboone-cc-plugins](https://github.com/cboone/cboone-cc-plugins) ↝ Claude Code skills and hooks<br>
 [cboone/bopca](https://github.com/cboone/bopca) ↝ Keeping you safe from the AI<br>
 [cboone/cboone.github.io](https://github.com/cboone/cboone.github.io) ↝ My personal site<br>
 [cboone/tmux-binding-help](https://github.com/cboone/tmux-binding-help) ↝ Better binding help for tmux<br>
-[cboone/cboone-cc-plugins](https://github.com/cboone/cboone-cc-plugins) ↝ Claude Code skills and hooks<br>
 [cboone/crawler](https://github.com/cboone/crawler) ↝ Test TUIs through tmux<br>
 [cboone/attest](https://github.com/cboone/attest) ↝ Simple, Go-style test assertions<br>
 [cboone/stipple](https://github.com/cboone/stipple) ↝ Braille rendering library in Go<br>
