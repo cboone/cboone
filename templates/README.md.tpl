@@ -6,11 +6,13 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 ### Projects
 
-{{ range recentContributions 20 }}
+{{ range recentContributions 25 }}
 {{- if and (eq .Repo.Owner "cboone") (ne (printf "%.9s" .Repo.Name) "homebrew-") -}}
 [{{ .Repo.Owner }}/{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }} ↝ {{ . }}{{ end }}<br>
 {{ end -}}
 {{ end }}
+
+[And so on.](https://github.com/cboone?tab=repositories)
 
 ### Other Contributions
 
@@ -28,7 +30,6 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 ### Et cetera
 
-[Other Repos](https://github.com/cboone?tab=repositories) |
 [Catamount Hardware](https://catamounthardware.com) |
 [Instagram](https://instagram.com/catamounthardware) |
 [SoundCloud](https://soundcloud.com/cboone)
