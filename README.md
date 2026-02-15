@@ -16,15 +16,15 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 [cboone/crawler](https://github.com/cboone/crawler) ↝ Test TUIs through tmux<br>
 [cboone/attest](https://github.com/cboone/attest) ↝ Simple, Go-style test assertions<br>
 [cboone/stipple](https://github.com/cboone/stipple) ↝ Braille rendering library in Go<br>
+[cboone/tmux-package-status](https://github.com/cboone/tmux-package-status) ↝ Package status plugin for your tmux status bar<br>
 [cboone/tmux-conf](https://github.com/cboone/tmux-conf) ↝ tmux defaults<br>
 [cboone/manny-pub](https://github.com/cboone/manny-pub) ↝ Man page to epub converter<br>
-[cboone/tmux-package-status](https://github.com/cboone/tmux-package-status) ↝ Package status plugin for your tmux status bar<br>
 [cboone/terminal-theme-alabaster](https://github.com/cboone/terminal-theme-alabaster) ↝ Alabaster color themes for terminals<br>
-[cboone/tmux-theme-alabaster](https://github.com/cboone/tmux-theme-alabaster) ↝ Alabaster for tmux<br>
 [cboone/vscode-theme-yet-another-alabaster](https://github.com/cboone/vscode-theme-yet-another-alabaster) ↝ Yet Another Alabaster theme for VSCode<br>
 [cboone/alabaster-themes-comparison](https://github.com/cboone/alabaster-themes-comparison) ↝ All the Alabaster<br>
+[cboone/tmux-theme-alabaster](https://github.com/cboone/tmux-theme-alabaster) ↝ Alabaster for tmux<br>
 [cboone/cboone-alpine-plugins](https://github.com/cboone/cboone-alpine-plugins) ↝ Custom Alpine.js plugins and magic properties<br>
-[cboone/cboone-tailwind-plugins](https://github.com/cboone/cboone-tailwind-plugins) ↝ Custom Tailwind CSS plugins and theme extensions<br>
+[cboone/glowup-theme](https://github.com/cboone/glowup-theme)<br>
 
 
 [And so on.](https://github.com/cboone?tab=repositories)
