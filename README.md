@@ -7,14 +7,14 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 ### Projects
 
 [cboone/cboone-cc-plugins](https://github.com/cboone/cboone-cc-plugins) ↝ Claude Code skills and hooks<br>
+[cboone/fm](https://github.com/cboone/fm) ↝ Safe Fastmail management tool for LLMs<br>
 [cboone/gh-problemas](https://github.com/cboone/gh-problemas) ↝ github problemas: a GH CLI extension for managing issues<br>
-[cboone/jm](https://github.com/cboone/jm) ↝ Safe JMAP (Fastmail) email tool<br>
 [cboone/right-round](https://github.com/cboone/right-round) ↝ Spinner bonanza<br>
 [cboone/bopca](https://github.com/cboone/bopca) ↝ Keeping you safe from the AI<br>
 [cboone/cboone.github.io](https://github.com/cboone/cboone.github.io) ↝ My personal site<br>
 [cboone/tmux-binding-help](https://github.com/cboone/tmux-binding-help) ↝ Better binding help for tmux<br>
-[cboone/attest](https://github.com/cboone/attest) ↝ Simple, Go-style test assertions<br>
 [cboone/crawler](https://github.com/cboone/crawler) ↝ Test TUIs through tmux<br>
+[cboone/attest](https://github.com/cboone/attest) ↝ Simple, Go-style test assertions<br>
 [cboone/stipple](https://github.com/cboone/stipple) ↝ Braille rendering library in Go<br>
 [cboone/tmux-package-status](https://github.com/cboone/tmux-package-status) ↝ Package status plugin for your tmux status bar<br>
 [cboone/tmux-conf](https://github.com/cboone/tmux-conf) ↝ tmux defaults<br>
@@ -33,8 +33,8 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 [erikw/tmux-dark-notify](https://github.com/erikw/tmux-dark-notify) ↝ A plugin that make tmux's theme follow macOS dark/light mode.<br>
 [facebookincubator/scrut](https://github.com/facebookincubator/scrut) ↝ Scrut is a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuss.<br>
-[Subbeh/tmux-tpad](https://github.com/Subbeh/tmux-tpad) ↝ Floating window manager for Tmux<br>
 [raine/workmux](https://github.com/raine/workmux) ↝ git worktrees + tmux windows for zero-friction parallel dev<br>
+[Subbeh/tmux-tpad](https://github.com/Subbeh/tmux-tpad) ↝ Floating window manager for Tmux<br>
 
 
 ### Blog
