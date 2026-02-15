@@ -7,8 +7,8 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 ### Projects
 
 {{ range recentContributions 25 }}
-{{- if and (eq .Repo.Owner "cboone") (ne (printf "%.9s" .Repo.Name) "homebrew-") -}}
-[{{ .Repo.Owner }}/{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }} ↝ {{ . }}{{ end }}<br>
+{{- if and (eq .Repo.Owner "cboone") (ne (printf "%.9s" .Repo.Name) "homebrew-") .Repo.Description -}}
+[{{ .Repo.Owner }}/{{ .Repo.Name }}]({{ .Repo.URL }}) ↝ {{ .Repo.Description }}<br>
 {{ end -}}
 {{ end }}
 
@@ -16,9 +16,9 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 ### Other Contributions
 
-{{ range recentContributions 20 }}
-{{- if and (not (eq .Repo.Owner "cboone")) (ne (printf "%.9s" .Repo.Name) "homebrew-") -}}
-[{{ .Repo.Owner }}/{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }} ↝ {{ . }}{{ end }}<br>
+{{ range recentContributions 25 }}
+{{- if and (not (eq .Repo.Owner "cboone")) (ne (printf "%.9s" .Repo.Name) "homebrew-") .Repo.Description -}}
+[{{ .Repo.Owner }}/{{ .Repo.Name }}]({{ .Repo.URL }}) ↝ {{ .Repo.Description }}<br>
 {{ end -}}
 {{ end }}
 
