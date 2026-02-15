@@ -7,6 +7,7 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 ### Projects
 
 [cboone/cboone-cc-plugins](https://github.com/cboone/cboone-cc-plugins) ↝ Claude Code skills and hooks<br>
+[cboone/reports](https://github.com/cboone/reports)<br>
 [cboone/fm](https://github.com/cboone/fm) ↝ Safe Fastmail management tool for LLMs<br>
 [cboone/gh-problemas](https://github.com/cboone/gh-problemas) ↝ github problemas: a GH CLI extension for managing issues<br>
 [cboone/right-round](https://github.com/cboone/right-round) ↝ Spinner bonanza<br>
@@ -20,10 +21,9 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 [cboone/tmux-conf](https://github.com/cboone/tmux-conf) ↝ tmux defaults<br>
 [cboone/manny-pub](https://github.com/cboone/manny-pub) ↝ Man page to epub converter<br>
 [cboone/terminal-theme-alabaster](https://github.com/cboone/terminal-theme-alabaster) ↝ Alabaster color themes for terminals<br>
-[cboone/vscode-theme-yet-another-alabaster](https://github.com/cboone/vscode-theme-yet-another-alabaster) ↝ Yet Another Alabaster theme for VSCode<br>
 [cboone/alabaster-themes-comparison](https://github.com/cboone/alabaster-themes-comparison) ↝ All the Alabaster<br>
+[cboone/vscode-theme-yet-another-alabaster](https://github.com/cboone/vscode-theme-yet-another-alabaster) ↝ Yet Another Alabaster theme for VSCode<br>
 [cboone/tmux-theme-alabaster](https://github.com/cboone/tmux-theme-alabaster) ↝ Alabaster for tmux<br>
-[cboone/cboone-alpine-plugins](https://github.com/cboone/cboone-alpine-plugins) ↝ Custom Alpine.js plugins and magic properties<br>
 [cboone/glowup-theme](https://github.com/cboone/glowup-theme)<br>
 
 
