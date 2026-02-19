@@ -22,8 +22,8 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 [cboone/tmux-package-status](https://github.com/cboone/tmux-package-status) ↝ Package status plugin for your tmux status bar<br>
 [cboone/alabaster-themes-comparison](https://github.com/cboone/alabaster-themes-comparison) ↝ All the Alabaster<br>
 [cboone/terminal-theme-alabaster](https://github.com/cboone/terminal-theme-alabaster) ↝ Alabaster color themes for terminals<br>
-[cboone/tmux-theme-alabaster](https://github.com/cboone/tmux-theme-alabaster) ↝ Alabaster for tmux<br>
 [cboone/vscode-theme-yet-another-alabaster](https://github.com/cboone/vscode-theme-yet-another-alabaster) ↝ Yet Another Alabaster theme for VSCode<br>
+[cboone/tmux-theme-alabaster](https://github.com/cboone/tmux-theme-alabaster) ↝ Alabaster for tmux<br>
 [cboone/cboone-tailwind-plugins](https://github.com/cboone/cboone-tailwind-plugins) ↝ Custom Tailwind CSS plugins and theme extensions<br>
 
 
