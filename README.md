@@ -15,8 +15,8 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 [cboone/right-round](https://github.com/cboone/right-round) ↝ Spinner bonanza<br>
 [cboone/cboone.github.io](https://github.com/cboone/cboone.github.io) ↝ My personal site<br>
 [cboone/tmux-binding-help](https://github.com/cboone/tmux-binding-help) ↝ Better binding help for tmux<br>
-[cboone/attest](https://github.com/cboone/attest) ↝ Simple, Go-style test assertions<br>
 [cboone/crawler](https://github.com/cboone/crawler) ↝ Test TUIs through tmux<br>
+[cboone/attest](https://github.com/cboone/attest) ↝ Simple, Go-style test assertions<br>
 [cboone/stipple](https://github.com/cboone/stipple) ↝ Braille rendering library in Go<br>
 [cboone/manny-pub](https://github.com/cboone/manny-pub) ↝ Man page to epub converter<br>
 [cboone/tmux-package-status](https://github.com/cboone/tmux-package-status) ↝ Package status plugin for your tmux status bar<br>
@@ -32,8 +32,8 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 [erikw/tmux-dark-notify](https://github.com/erikw/tmux-dark-notify) ↝ A plugin that make tmux's theme follow macOS dark/light mode.<br>
 [facebookincubator/scrut](https://github.com/facebookincubator/scrut) ↝ Scrut is a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuss.<br>
-[raine/workmux](https://github.com/raine/workmux) ↝ git worktrees + tmux windows for zero-friction parallel dev<br>
 [Subbeh/tmux-tpad](https://github.com/Subbeh/tmux-tpad) ↝ Floating window manager for Tmux<br>
+[raine/workmux](https://github.com/raine/workmux) ↝ git worktrees + tmux windows for zero-friction parallel dev<br>
 
 
 ### Blog
