@@ -6,7 +6,7 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 ### Projects
 
-[cboone/cboone-cc-plugins](https://github.com/cboone/cboone-cc-plugins) ↝ Claude Code skills and hooks<br>
+[cboone/cboone-cc-plugins](https://github.com/cboone/cboone-cc-plugins) ↝ Claude Code commands, hooks, and skills<br>
 [cboone/tmux-conf](https://github.com/cboone/tmux-conf) ↝ tmux defaults<br>
 [cboone/bopca](https://github.com/cboone/bopca) ↝ Keeping you safe from the AI<br>
 [cboone/gh-problemas](https://github.com/cboone/gh-problemas) ↝ github problemas: a GH CLI extension for managing issues<br>
