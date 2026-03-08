@@ -6,8 +6,8 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 ### Projects
 
-[cboone/snappy](https://github.com/cboone/snappy) ↝ Frequent, automatic, super fast, lightweight snapshot backups of your entire drive<br>
 [cboone/cboone-cc-plugins](https://github.com/cboone/cboone-cc-plugins) ↝ Claude Code commands, hooks, and skills<br>
+[cboone/snappy](https://github.com/cboone/snappy) ↝ Frequent, automatic, super fast, lightweight snapshot backups of your entire drive<br>
 [cboone/tmux-default-bindings](https://github.com/cboone/tmux-default-bindings) ↝ tmux defaults<br>
 [cboone/bopca](https://github.com/cboone/bopca) ↝ Keeping you safe from the AI<br>
 [cboone/gh-problemas](https://github.com/cboone/gh-problemas) ↝ github problemas: a GH CLI extension for managing issues<br>
@@ -21,11 +21,10 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 [cboone/stipple](https://github.com/cboone/stipple) ↝ Braille rendering library in Go<br>
 [cboone/manny-pub](https://github.com/cboone/manny-pub) ↝ Man page to epub converter<br>
 [cboone/tmux-package-status](https://github.com/cboone/tmux-package-status) ↝ Package status plugin for your tmux status bar<br>
-[cboone/terminal-theme-alabaster](https://github.com/cboone/terminal-theme-alabaster) ↝ Alabaster color themes for terminals<br>
 [cboone/alabaster-themes-comparison](https://github.com/cboone/alabaster-themes-comparison) ↝ All the Alabaster<br>
+[cboone/terminal-theme-alabaster](https://github.com/cboone/terminal-theme-alabaster) ↝ Alabaster color themes for terminals<br>
 [cboone/vscode-theme-yet-another-alabaster](https://github.com/cboone/vscode-theme-yet-another-alabaster) ↝ Yet Another Alabaster theme for VSCode<br>
 [cboone/tmux-theme-alabaster](https://github.com/cboone/tmux-theme-alabaster) ↝ Alabaster for tmux<br>
-[cboone/cboone-tailwind-plugins](https://github.com/cboone/cboone-tailwind-plugins) ↝ Custom Tailwind CSS plugins and theme extensions<br>
 
 
 [And so on.](https://github.com/cboone?tab=repositories)
@@ -34,8 +33,8 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 [erikw/tmux-dark-notify](https://github.com/erikw/tmux-dark-notify) ↝ A plugin that make tmux's theme follow macOS dark/light mode.<br>
 [facebookincubator/scrut](https://github.com/facebookincubator/scrut) ↝ Scrut is a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuss.<br>
-[Subbeh/tmux-tpad](https://github.com/Subbeh/tmux-tpad) ↝ Floating window manager for Tmux<br>
 [raine/workmux](https://github.com/raine/workmux) ↝ git worktrees + tmux windows for zero-friction parallel dev<br>
+[Subbeh/tmux-tpad](https://github.com/Subbeh/tmux-tpad) ↝ Floating window manager for Tmux<br>
 
 
 ### Blog
