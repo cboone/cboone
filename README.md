@@ -6,8 +6,8 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 ### Projects
 
-[cboone/gh-actions](https://github.com/cboone/gh-actions) ↝ GitHub Actions for my repos (gh/cboone/...)<br>
 [cboone/cboone-cc-plugins](https://github.com/cboone/cboone-cc-plugins) ↝ Claude Code commands, hooks, and skills<br>
+[cboone/gh-actions](https://github.com/cboone/gh-actions) ↝ GitHub Actions for my repos (gh/cboone/...)<br>
 [cboone/fm](https://github.com/cboone/fm) ↝ Safe Fastmail management tool for LLMs<br>
 [cboone/cboone-alpine-plugins](https://github.com/cboone/cboone-alpine-plugins) ↝ Custom Alpine.js plugins and magic properties<br>
 [cboone/right-round](https://github.com/cboone/right-round) ↝ Spinner bonanza<br>
