@@ -38,7 +38,7 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 ### Blog
 
-[Alabaster Themes for Terminals](https://cboone.github.io/projects/alabaster-themes-for-terminals/) (1 month ago)<br>[Writer Theme for VS Code](https://cboone.github.io/projects/writer-theme-vscode/) (1 month ago)<br>[Hyperduck](https://cboone.github.io/posts/26-01-17-hyperduck/) (2 months ago)<br>[owloops/claude-powerline Progress Bar Display](https://cboone.github.io/posts/26-01-09-progress-bar-display/) (2 months ago)<br>[git diff: zdiff3](https://cboone.github.io/posts/26-01-15-git-zdiff3/) (2 months ago)<br>
+[Alabaster Themes for Terminals](https://cboone.github.io/projects/alabaster-themes-for-terminals/) (2 months ago)<br>[Writer Theme for VS Code](https://cboone.github.io/projects/writer-theme-vscode/) (2 months ago)<br>[Hyperduck](https://cboone.github.io/posts/26-01-17-hyperduck/) (2 months ago)<br>[owloops/claude-powerline Progress Bar Display](https://cboone.github.io/posts/26-01-09-progress-bar-display/) (2 months ago)<br>[git diff: zdiff3](https://cboone.github.io/posts/26-01-15-git-zdiff3/) (2 months ago)<br>
 
 ### Et cetera
 
