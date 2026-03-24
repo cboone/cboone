@@ -6,9 +6,9 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 ### Projects
 
+[cboone/snappy](https://github.com/cboone/snappy) ↝ Frequent, automatic, super fast, lightweight snapshot backups of your entire drive<br>
 [cboone/cboone-cc-plugins](https://github.com/cboone/cboone-cc-plugins) ↝ Claude Code commands, hooks, and skills<br>
 [cboone/gh-actions](https://github.com/cboone/gh-actions) ↝ GitHub Actions for my repos (gh/cboone/...)<br>
-[cboone/snappy](https://github.com/cboone/snappy) ↝ Frequent, automatic, super fast, lightweight snapshot backups of your entire drive<br>
 [cboone/writer-theme-vscode](https://github.com/cboone/writer-theme-vscode) ↝ A color scheme for focused long-form writing<br>
 [cboone/cboone-tailwind-plugins](https://github.com/cboone/cboone-tailwind-plugins) ↝ Custom Tailwind CSS plugins and theme extensions<br>
 [cboone/right-round](https://github.com/cboone/right-round) ↝ Spinner bonanza<br>
