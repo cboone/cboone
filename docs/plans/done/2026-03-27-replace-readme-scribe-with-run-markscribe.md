@@ -4,7 +4,7 @@ Addresses: #3 and #4
 
 ## Context
 
-The workflow at `.github/workflows/update-readme.yaml` currently uses `charmbracelet/readme-scribe@master`, a Docker-based action pinned to `@master` with no version tags. This makes it impossible to SHA-pin or version-track. The `cboone/gh-actions` repo now provides a centralized `run-markscribe` composite action (added in PR cboone/gh-actions#17, released in v2.1.0) that downloads the markscribe binary directly with SHA-256 checksum verification.
+The workflow at `.github/workflows/update-readme.yaml` currently uses `charmbracelet/readme-scribe@master`, a Docker-based action pinned to `@master` with no version tags. While SHA-pinning to a specific commit is technically possible, the lack of tagged releases makes version tracking harder, and relying on `@master` keeps it on an unstable, moving reference. The `cboone/gh-actions` repo now provides a centralized `run-markscribe` composite action (added in PR cboone/gh-actions#17, released in v2.1.0) that downloads the markscribe binary directly with SHA-256 checksum verification.
 
 Issues #3 and #4 both describe this migration. Issue #3 has the accurate input names matching the actual action definition.
 
