@@ -35,6 +35,7 @@ Replace the `charmbracelet/readme-scribe@master` step (lines 19-24):
 ```
 
 Key differences:
+
 - Action source: `charmbracelet/readme-scribe@master` -> `cboone/gh-actions/actions/run-markscribe@v2`
 - Input rename: `writeTo` -> `write-to` (kebab-case, matching gh-actions conventions)
 - `GITHUB_TOKEN` env var preserved (still needed for GitHub API access in templates)
