@@ -25,7 +25,6 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 [cboone/manny-pub](https://github.com/cboone/manny-pub) ↝ Man page to epub converter<br>
 [cboone/tmux-theme-alabaster](https://github.com/cboone/tmux-theme-alabaster) ↝ Alabaster for tmux<br>
 
-
 [And so on.](https://github.com/cboone?tab=repositories)
 
 ### Other Contributions
@@ -34,7 +33,6 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 [facebookincubator/scrut](https://github.com/facebookincubator/scrut) ↝ Scrut is a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuss.<br>
 [Subbeh/tmux-tpad](https://github.com/Subbeh/tmux-tpad) ↝ Floating window manager for Tmux<br>
 [raine/workmux](https://github.com/raine/workmux) ↝ git worktrees + tmux windows for zero-friction parallel dev<br>
-
 
 ### Blog
 
