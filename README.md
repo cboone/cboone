@@ -16,8 +16,8 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 [cboone/writer-theme-vscode](https://github.com/cboone/writer-theme-vscode) ↝ A color scheme for focused long-form writing<br>
 [cboone/cboone-alpine-plugins](https://github.com/cboone/cboone-alpine-plugins) ↝ Custom Alpine.js plugins and magic properties<br>
 [cboone/right-round](https://github.com/cboone/right-round) ↝ Spinner bonanza<br>
-[cboone/cboone-tailwind-plugins](https://github.com/cboone/cboone-tailwind-plugins) ↝ Custom Tailwind CSS plugins and theme extensions<br>
 [cboone/gh-problemas](https://github.com/cboone/gh-problemas) ↝ github problemas: a GH CLI extension for managing issues<br>
+[cboone/cboone-tailwind-plugins](https://github.com/cboone/cboone-tailwind-plugins) ↝ Custom Tailwind CSS plugins and theme extensions<br>
 [cboone/stipple](https://github.com/cboone/stipple) ↝ Braille rendering library in Go<br>
 [cboone/tmux-binding-help](https://github.com/cboone/tmux-binding-help) ↝ Better binding help for tmux<br>
 [cboone/strider](https://github.com/cboone/strider) ↝ Test TUIs through tmux<br>
