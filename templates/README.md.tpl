@@ -22,12 +22,6 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 {{ end -}}
 {{ end }}
 
-### Blog
-
-{{ range rss "https://cboone.github.io/index.xml" 5 -}}
-[{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})<br>
-{{- end }}
-
 ### Et cetera
 
 [Catamount Hardware](https://catamounthardware.com) |
