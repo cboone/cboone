@@ -6,14 +6,14 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 ### Projects
 
+[cboone/zhang-yeung-inequality](https://github.com/cboone/zhang-yeung-inequality) ↝ Lean formalization of the Zhang Yeung inequality<br>
+[cboone/gh-actions](https://github.com/cboone/gh-actions) ↝ GitHub Actions for my repos (gh/cboone/...)<br>
 [cboone/cboone.github.io](https://github.com/cboone/cboone.github.io) ↝ My personal site<br>
 [cboone/diurnal-terminal](https://github.com/cboone/diurnal-terminal) ↝ Automatically switch macOS Terminal theme at sunrise and sunset<br>
-[cboone/zhang-yeung-inequality](https://github.com/cboone/zhang-yeung-inequality) ↝ Lean formalization of the Zhang Yeung inequality<br>
+[cboone/strider](https://github.com/cboone/strider) ↝ Test TUIs through tmux<br>
 [cboone/fm](https://github.com/cboone/fm) ↝ Safe Fastmail management tool for LLMs<br>
 [cboone/agent-harness-plugins](https://github.com/cboone/agent-harness-plugins) ↝ Claude, Codex, + OpenCode commands, hooks, and skills<br>
-[cboone/strider](https://github.com/cboone/strider) ↝ Test TUIs through tmux<br>
 [cboone/springer](https://github.com/cboone/springer) ↝ A diatonic chord generator MIDI FX plugin for macOS. Authored as a CLAP, projected to an Audio Unit for Logic Pro's MIDI FX slot.<br>
-[cboone/gh-actions](https://github.com/cboone/gh-actions) ↝ GitHub Actions for my repos (gh/cboone/...)<br>
 [cboone/passphrase-arcana](https://github.com/cboone/passphrase-arcana) ↝ Passphrase wordlist with unusual, medium-length, easily typeable English words<br>
 [cboone/snappy](https://github.com/cboone/snappy) ↝ Frequent, automatic, super fast, lightweight snapshot backups of your entire drive<br>
 [cboone/writer-theme-vscode](https://github.com/cboone/writer-theme-vscode) ↝ A color scheme for focused long-form writing<br>
