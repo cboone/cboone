@@ -8,6 +8,7 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 [cboone/agent-harness-plugins](https://github.com/cboone/agent-harness-plugins) ↝ Claude, Codex, + OpenCode commands, hooks, and skills<br>
 [cboone/gh-actions](https://github.com/cboone/gh-actions) ↝ GitHub Actions for my repos (gh/cboone/...)<br>
+[cboone/savera](https://github.com/cboone/savera) ↝ A modulatable synthesizer built on a physical model of the Indian hand harmonium (peti), for macOS (CLAP and AUv2)<br>
 [cboone/board](https://github.com/cboone/board) ↝ Backlog Tracker: a live backlog triage board for any GitHub repository<br>
 [cboone/springer](https://github.com/cboone/springer) ↝ A diatonic chord generator MIDI FX plugin for macOS. Authored as a CLAP, projected to an Audio Unit for Logic Pro's MIDI FX slot.<br>
 [cboone/diurnal-terminal](https://github.com/cboone/diurnal-terminal) ↝ Automatically switch macOS Terminal theme at sunrise and sunset<br>
