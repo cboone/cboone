@@ -17,8 +17,8 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 [cboone/gh-problemas](https://github.com/cboone/gh-problemas) ↝ github problemas: a GH CLI extension for managing issues<br>
 [cboone/cboone-alpine-plugins](https://github.com/cboone/cboone-alpine-plugins) ↝ Custom Alpine.js plugins and magic properties<br>
 [cboone/zhang-yeung-inequality](https://github.com/cboone/zhang-yeung-inequality) ↝ Lean formalization of the Zhang Yeung inequality<br>
-[cboone/cboone.github.io](https://github.com/cboone/cboone.github.io) ↝ My personal site<br>
 [cboone/springer](https://github.com/cboone/springer) ↝ A diatonic chord generator MIDI FX plugin for macOS. Authored as a CLAP, projected to an Audio Unit for Logic Pro's MIDI FX slot.<br>
+[cboone/cboone.github.io](https://github.com/cboone/cboone.github.io) ↝ My personal site<br>
 [cboone/fm](https://github.com/cboone/fm) ↝ Safe Fastmail management tool for LLMs<br>
 
 
