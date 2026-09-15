@@ -8,7 +8,6 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 [cboone/savera](https://github.com/cboone/savera) ↝ A modulatable synthesizer built on a physical model of the Indian hand harmonium (peti), for macOS (CLAP and AUv2)<br>
 [cboone/agent-harness-plugins](https://github.com/cboone/agent-harness-plugins) ↝ Claude, Codex, + OpenCode commands, hooks, and skills<br>
-[cboone/board](https://github.com/cboone/board) ↝ Backlog Tracker: a live backlog triage board for any GitHub repository<br>
 [cboone/gh-actions](https://github.com/cboone/gh-actions) ↝ GitHub Actions for my repos (gh/cboone/...)<br>
 [cboone/right-round](https://github.com/cboone/right-round) ↝ Spinner bonanza<br>
 [cboone/tmux-binding-help](https://github.com/cboone/tmux-binding-help) ↝ Better binding help for tmux<br>
