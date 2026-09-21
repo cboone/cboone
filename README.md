@@ -6,9 +6,9 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 ### Projects
 
+[cboone/savera](https://github.com/cboone/savera) ↝ A modulatable synthesizer built on a physical model of the Indian hand harmonium (peti), for macOS (CLAP and AUv2)<br>
 [cboone/gh-actions](https://github.com/cboone/gh-actions) ↝ GitHub Actions for my repos (gh/cboone/...)<br>
 [cboone/agent-harness-plugins](https://github.com/cboone/agent-harness-plugins) ↝ Claude, Codex, + OpenCode commands, hooks, and skills<br>
-[cboone/savera](https://github.com/cboone/savera) ↝ A modulatable synthesizer built on a physical model of the Indian hand harmonium (peti), for macOS (CLAP and AUv2)<br>
 [cboone/cboone.github.io](https://github.com/cboone/cboone.github.io) ↝ My personal site<br>
 [cboone/right-round](https://github.com/cboone/right-round) ↝ Spinner bonanza<br>
 [cboone/fm](https://github.com/cboone/fm) ↝ Safe Fastmail management tool for LLMs<br>
