@@ -12,6 +12,7 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 [cboone/cboone.github.io](https://github.com/cboone/cboone.github.io) ↝ My personal site<br>
 [cboone/right-round](https://github.com/cboone/right-round) ↝ Spinner bonanza<br>
 [cboone/springer](https://github.com/cboone/springer) ↝ A diatonic chord generator MIDI FX plugin for macOS. Authored as a CLAP, projected to an Audio Unit for Logic Pro's MIDI FX slot.<br>
+[cboone/tmux-binding-help](https://github.com/cboone/tmux-binding-help) ↝ Better binding help for tmux<br>
 [cboone/stipple](https://github.com/cboone/stipple) ↝ Braille rendering library in Go<br>
 [cboone/diurnal-terminal](https://github.com/cboone/diurnal-terminal) ↝ Automatically switch macOS Terminal theme at sunrise and sunset<br>
 [cboone/snappy](https://github.com/cboone/snappy) ↝ Frequent, automatic, super fast, lightweight snapshot backups of your entire drive<br>
