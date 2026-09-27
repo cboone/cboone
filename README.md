@@ -10,13 +10,13 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 [cboone/gh-actions](https://github.com/cboone/gh-actions) ↝ GitHub Actions for my repos (gh/cboone/...)<br>
 [cboone/savera](https://github.com/cboone/savera) ↝ A modulatable synthesizer built on a physical model of the Indian hand harmonium (peti), for macOS (CLAP and AUv2)<br>
 [cboone/cboone.github.io](https://github.com/cboone/cboone.github.io) ↝ My personal site<br>
-[cboone/diurnal-terminal](https://github.com/cboone/diurnal-terminal) ↝ Automatically switch macOS Terminal theme at sunrise and sunset<br>
-[cboone/tmux-binding-help](https://github.com/cboone/tmux-binding-help) ↝ Better binding help for tmux<br>
-[cboone/zhang-yeung-inequality](https://github.com/cboone/zhang-yeung-inequality) ↝ Lean formalization of the Zhang Yeung inequality<br>
-[cboone/cboone-alpine-plugins](https://github.com/cboone/cboone-alpine-plugins) ↝ Custom Alpine.js plugins and magic properties<br>
-[cboone/springer](https://github.com/cboone/springer) ↝ A diatonic chord generator MIDI FX plugin for macOS. Authored as a CLAP, projected to an Audio Unit for Logic Pro's MIDI FX slot.<br>
 [cboone/snappy](https://github.com/cboone/snappy) ↝ Frequent, automatic, super fast, lightweight snapshot backups of your entire drive<br>
+[cboone/tmux-binding-help](https://github.com/cboone/tmux-binding-help) ↝ Better binding help for tmux<br>
+[cboone/diurnal-terminal](https://github.com/cboone/diurnal-terminal) ↝ Automatically switch macOS Terminal theme at sunrise and sunset<br>
+[cboone/cboone-alpine-plugins](https://github.com/cboone/cboone-alpine-plugins) ↝ Custom Alpine.js plugins and magic properties<br>
 [cboone/fm](https://github.com/cboone/fm) ↝ Safe Fastmail management tool for LLMs<br>
+[cboone/zhang-yeung-inequality](https://github.com/cboone/zhang-yeung-inequality) ↝ Lean formalization of the Zhang Yeung inequality<br>
+[cboone/springer](https://github.com/cboone/springer) ↝ A diatonic chord generator MIDI FX plugin for macOS. Authored as a CLAP, projected to an Audio Unit for Logic Pro's MIDI FX slot.<br>
 [cboone/passphrase-arcana](https://github.com/cboone/passphrase-arcana) ↝ Passphrase wordlist with unusual, medium-length, easily typeable English words<br>
 [cboone/writer-theme-vscode](https://github.com/cboone/writer-theme-vscode) ↝ A color scheme for focused long-form writing<br>
 [cboone/cboone-tailwind-plugins](https://github.com/cboone/cboone-tailwind-plugins) ↝ Custom Tailwind CSS plugins and theme extensions<br>
@@ -27,7 +27,6 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 ### Other Contributions
 
-[erikw/tmux-dark-notify](https://github.com/erikw/tmux-dark-notify) ↝ A plugin that make tmux's theme follow macOS dark/light mode.<br>
 
 
 ### Et cetera
