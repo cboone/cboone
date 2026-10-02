@@ -6,8 +6,8 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 ### Projects
 
-[cboone/serum-2](https://github.com/cboone/serum-2) ↝ Command-line tools for Serum 2 presets, curves and wavetables<br>
 [cboone/agent-harness-plugins](https://github.com/cboone/agent-harness-plugins) ↝ Claude, Codex, + OpenCode commands, hooks, and skills<br>
+[cboone/serum-2](https://github.com/cboone/serum-2) ↝ Command-line tools for Serum 2 presets, curves and wavetables<br>
 [cboone/gh-actions](https://github.com/cboone/gh-actions) ↝ GitHub Actions for my repos (gh/cboone/...)<br>
 [cboone/cboone.github.io](https://github.com/cboone/cboone.github.io) ↝ My personal site<br>
 [cboone/snappy](https://github.com/cboone/snappy) ↝ Frequent, automatic, super fast, lightweight snapshot backups of your entire drive<br>
