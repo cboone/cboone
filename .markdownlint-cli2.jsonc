@@ -17,5 +17,13 @@
     // https://github.com/DavidAnson/markdownlint/blob/v0.40.0/doc/md041.md
     // MD041/no-bare-urls
     "MD041": false,
+
+    // Table column style
+    // Prettier owns table alignment and fixes it automatically; markdownlint
+    // has no fixer for this rule, and its default "any" style reports against
+    // whichever style is the closest match, pushing aligned tables to compact.
+    // https://github.com/DavidAnson/markdownlint/blob/v0.40.0/doc/md060.md
+    // MD060/table-column-style
+    "MD060": false,
   },
 }
