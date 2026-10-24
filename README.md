@@ -7,6 +7,7 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 ### Projects
 
 [cboone/agent-harness-plugins](https://github.com/cboone/agent-harness-plugins) ↝ Claude, Codex, + OpenCode commands, hooks, and skills<br>
+[cboone/terminal-theme-alabaster](https://github.com/cboone/terminal-theme-alabaster) ↝ Alabaster color themes for terminals<br>
 [cboone/snappy](https://github.com/cboone/snappy) ↝ Frequent, automatic, super fast, lightweight snapshot backups of your entire drive<br>
 [cboone/gh-actions](https://github.com/cboone/gh-actions) ↝ GitHub Actions for my repos (gh/cboone/...)<br>
 [cboone/springer](https://github.com/cboone/springer) ↝ A diatonic chord generator MIDI FX plugin for macOS. Authored as a CLAP, projected to an Audio Unit for Logic Pro's MIDI FX slot.<br>
@@ -14,8 +15,8 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 [cboone/fm](https://github.com/cboone/fm) ↝ Safe Fastmail management tool for LLMs<br>
 [cboone/cboone.github.io](https://github.com/cboone/cboone.github.io) ↝ My personal site<br>
 [cboone/cboone-alpine-plugins](https://github.com/cboone/cboone-alpine-plugins) ↝ Custom Alpine.js plugins and magic properties<br>
-[cboone/diurnal-terminal](https://github.com/cboone/diurnal-terminal) ↝ Automatically switch macOS Terminal theme at sunrise and sunset<br>
 [cboone/zhang-yeung-inequality](https://github.com/cboone/zhang-yeung-inequality) ↝ Lean formalization of the Zhang Yeung inequality<br>
+[cboone/diurnal-terminal](https://github.com/cboone/diurnal-terminal) ↝ Automatically switch macOS Terminal theme at sunrise and sunset<br>
 [cboone/tmux-binding-help](https://github.com/cboone/tmux-binding-help) ↝ Better binding help for tmux<br>
 [cboone/passphrase-arcana](https://github.com/cboone/passphrase-arcana) ↝ Passphrase wordlist with unusual, medium-length, easily typeable English words<br>
 [cboone/writer-theme-vscode](https://github.com/cboone/writer-theme-vscode) ↝ A color scheme for focused long-form writing<br>
@@ -27,7 +28,6 @@ Hands-on generalist. ↝ [cboone.github.io](https://cboone.github.io)<br>
 
 ### Other Contributions
 
-[erikw/tmux-dark-notify](https://github.com/erikw/tmux-dark-notify) ↝ A plugin that make tmux's theme follow macOS dark/light mode.<br>
 
 
 ### Et cetera
